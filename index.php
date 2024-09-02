@@ -26,5 +26,6 @@
         </div>
     </nav>
     <h1>Hello !</h1>
+    <p>Bienvenue, dans la monde de PHP.</p>
 </body>
 </html>
