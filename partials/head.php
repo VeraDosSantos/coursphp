@@ -23,6 +23,7 @@
                     <a class="nav-link text-light" href="/">Accueil</a>
                     <a class="nav-link text-light" href="/bases.php">Les bases</a>
                     <a class="nav-link text-light" href="/variable.php">Les variables</a>
+                    <a class="nav-link text-light" href="/constante.php">Les constantes</a>
                 </div>
             </div>
         </div>
