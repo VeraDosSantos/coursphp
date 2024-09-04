@@ -1,4 +1,5 @@
 <?php
+    $myPage = 'concatenation';
     require 'partials/head.php';
 ?>
     <h1>La concatenation</h1>
