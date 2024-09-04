@@ -1,4 +1,5 @@
 <?php
+    $myPage = 'base';
     require 'partials/head.php';
 ?>
 
