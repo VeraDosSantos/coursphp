@@ -25,6 +25,7 @@
                     <a class="nav-link text-light" href="/variable.php">Les variables</a>
                     <a class="nav-link text-light" href="/constante.php">Les constantes</a>
                     <a class="nav-link text-light" href="/concatenation.php">La concatenation</a>
+                    <a class="nav-link text-light" href="/arithmetique.php">L'arithmetique</a>
                 </div>
             </div>
         </div>
