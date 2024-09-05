@@ -1,3 +1,3 @@
-    <footer>© 2024 Copyright : Vera DOS SANTOS</footer>
+    <footer>© <?php echo date('Y') ?> Copyright : Vera DOS SANTOS</footer>
 </body>
 </html>
