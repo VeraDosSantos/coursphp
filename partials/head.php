@@ -51,6 +51,9 @@
                     if($myPage !== 'inclusion'){
                         echo '<a class="nav-link text-light" href="/inclusion.php">Les inclusions</a>';
                     }
+                    if($myPage !== 'fonction'){
+                        echo '<a class="nav-link text-light" href="/fonction.php">Les fonctions</a>';
+                    }
                     ?>
                 </div>
             </div>
